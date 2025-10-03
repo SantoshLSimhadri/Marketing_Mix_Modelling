@@ -1,6 +1,7 @@
 # Marketing_Mix_Modelling
 
 Overview
+
 This project demonstrates an end-to-end Marketing Mix Modeling (MMM) pipeline built in Python. It uses synthetic weekly data to simulate marketing investments across multiple channels (TV, Search, Social, Display, Email) and models their impact on sales using statistical and machine learning approaches.
 
 The pipeline includes feature engineering (adstock & saturation), model training, performance evaluation, channel contribution analysis, and budget optimization.
