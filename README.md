@@ -74,5 +74,7 @@ Model Performance: Compare Ridge, Lasso, and RandomForest.
 Channel ROI: Identify which channels drive the most efficient growth.
 
 Budget Recommendations: Data-driven strategy for incremental spend allocation.Model Performance: Compare Ridge, Lasso, and RandomForest.
+
 Channel ROI: Identify which channels drive the most efficient growth.
+
 Budget Recommendations: Data-driven strategy for incremental spend allocation.
